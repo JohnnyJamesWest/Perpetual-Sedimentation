@@ -53,7 +53,7 @@ High | High | High | 1/32 Step
 ## Control Software
 ## Arduino
 
-The Arduino was flashed with a simple program (PS1.0.ino) capable of receiving commands over the USB connection in a standard format. These commands can be sent to the Arduino from the Arduino IDE, from any suitable scripting language (baud rate of 115200) or from the GUI we provide (python source: PS2.0.py; ![GUI](PS1.1)). The list of accepted commands with brief descriptions follows:
+The Arduino was flashed with a simple program (PS1.0.ino) capable of receiving commands over the USB connection in a standard format. These commands can be sent to the Arduino from the Arduino IDE, from any suitable scripting language (baud rate of 115200) or from the GUI we provide (python source: PS2.0.py; ![GUI](PSv1.1)). The list of accepted commands with brief descriptions follows:
 
 Command | Use | Notes 
 ---|---|---
@@ -74,7 +74,7 @@ Command | Use | Notes
 
 ## GUI
 
-For convenience we provide a streamlined graphical user interface (see Figure 5) that allows easier interaction with the perpetual sedimentation device. Six common syringe sizes are stored in the software such that the user can select pump output in the more meaningful µL/min form rather than rpm. The control software can be found ![here](PS1.1) , and the source code ![here]().
+For convenience we provide a streamlined graphical user interface (see Figure 5) that allows easier interaction with the perpetual sedimentation device. Six common syringe sizes are stored in the software such that the user can select pump output in the more meaningful µL/min form rather than rpm. The control software can be found ![here](PSv1.1), and the source code ![here](PS1.1.py).
 
 ![PS GUI](images/Figure5_GUI_PS.PNG) 
 
