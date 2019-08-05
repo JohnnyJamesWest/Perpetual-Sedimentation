@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on 15/08/2018
-Converted to PyQt4
-
-
 @author: Simon Lane
 """
 
