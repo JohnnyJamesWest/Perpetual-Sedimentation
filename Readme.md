@@ -10,11 +10,11 @@ The original source code is provided under MIT License. The designs, documentati
 Many microfluidic applications involve the use of particulates, typically beads or cells. These are prone to sediment scaling with R2 (radius) and density dissimilarity to the carrier medium. This results in progressively reduced delivery to the microfluidic device impacting throughput and causing other deleterious effects. Magnetic stirring is conventionally used to address this, but damages fragile cells and beads such as the brittle ChemGene beads central to Drop-seq single cell transcriptome analysis. Magnetic stirring is also not feasible for samples housed in small syringes or for use with magnetic particles.
 To solve this problem we have innovated the original inexpensive, high-performance DropletKitchen syringe pumps by mounting them on a rotating gear wheel. Fluid rotation coupled with sedimentation causes the particles to describe an orbit, retaining them in a suspended state in the syringe throughout the microfluidic procedure. Here we provide designs, documentation and driving code for a perpetual sedimentation syringe pump system suitable for Drop-seq microfluidics. The system is inexpensive (<£400), lightweight (4.45 kg) and compact (333 x 277 x 155 mm; l x d x h). The system comprises 3 high performance syringe pumps, 2 of which rotate 360° and then reverse (to avoid cable and tubing entanglement) to enable perpetual sedimentation for the continuous delivery of particulates. This open instrumentation approach involves laser cutting acrylic sheets to rapidly provide sturdy parts for mounting on a steel rod chassis. The Drop-seq Perpetual Sedimentation prototype is shown in Figure 1 and a single rotating pump shown in Figure 2. Motors, driving electronics and other assembly components are commercially available, with the system completed using an Arduino operating code controlled via a streamlined GUI.
 
-![PS Parallel Syringe Pumps](images/Figure1_DropSeqPumpDrive.JPG) 
+![PS Parallel Syringe Pumps](images/Figure1_DropSeqPumpDrive.jpg) 
 
 Figure 1. A parallel syringe pump perpetual sedimentation prototype supporting two rotating syringe pumps and a third static syringe pump.
 
-![Rotating Syringe Pump](images/Figure2_SingleRotaryPump.JPG) 
+![Rotating Syringe Pump](images/Figure2_SingleRotaryPump.jpg) 
 
 Figure 2. A rotating syringe pump with an image of the gear interface (inset).
 
@@ -29,7 +29,7 @@ Figure 3. Design file of parts for a rotating pump.
 
 To assemble the chassis and the pump in the correct sequence an alphanumeric scheme is used to label the parts with the salami arrangements shown in Figure 4. Ensure the labels are not hairlines before cutting.
 
-![Assembly Guide](images/Figure4_AssemblyInstructions.PNG) 
+![Assembly Guide](images/Figure4_AssemblyInstructions.png) 
 
 Figure 4. Assembly instructions for the perpetual sedimentation chassis and a rotating pump. The dashed lines represent the steel rods. Zinc collets (not shown) are used to secure the acrylic parts in place.
 
