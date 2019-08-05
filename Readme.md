@@ -56,7 +56,7 @@ High | High | High | 1/32 Step
 The Arduino was flashed with a simple program (PS1.0.ino) capable of receiving commands over the USB connection in a standard format. These commands can be sent to the Arduino from the Arduino IDE, from any suitable scripting language (baud rate of 115200) or from the GUI we provide (python source: PS2.0.py; GUI: link). The list of accepted commands with brief descriptions follows:
 
 Command | Use | Notes 
----|---|---|---
+---|---|---
 /af.xxx; | Pump A, forwards direction | xxx is the rpm x 100
 /ar.xxx; | Pump A, reverse direction | xxx is the rpm x 100
 /aoff; | Pump A off | 
