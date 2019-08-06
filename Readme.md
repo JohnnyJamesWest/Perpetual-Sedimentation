@@ -2,7 +2,7 @@
 
 **This page describes how to build rotating syringe pumps suitable for Drop-seq microfluidics and many other applications.**
 
-The original source code is provided under MIT License. The designs, documentation and operating code in this repository is Copyright© 2019 Jonathan West and Simon Lane, Perpetual Sedimentation contributors under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+The original source code is provided under MIT License. The designs, documentation and operating code in this repository is Copyright© 2019 Jonathan West and Simon Lane, Perpetual Sedimentation contributors under a ![Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
 
 
 ## Introduction
@@ -21,7 +21,7 @@ Figure 2. A rotating syringe pump with an image of the gear interface (inset).
 
 ## Design Files
 
-The design file for laser cutting all acrylic components can be found here (LINK); some CAD parts are shown in Figure 3. 
+The design file for laser cutting all acrylic components can be found ![here](PS_DesignFiles_v2.cdr); some CAD parts are shown in Figure 3. 
 
 ![CAD illustration](images/Figure3_CAD.PNG) 
 
