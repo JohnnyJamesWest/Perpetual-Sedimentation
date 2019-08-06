@@ -2,7 +2,7 @@
 
 **This page describes how to build rotating syringe pumps suitable for Drop-seq microfluidics and many other applications.**
 
-The original source code is provided under MIT License. The designs, documentation and operating code in this repository is Copyright© 2019 Jonathan West and Simon Lane, Perpetual Sedimentation contributors under a ![Creative Commons Attribution 4.0 International (CC BY 4.0) License](http://creativecommons.org/licenses/by/4.0/).
+The original source code is provided under MIT License. The designs, documentation and operating code in this repository is Copyright© 2019 Jonathan West and Simon Lane, Perpetual Sedimentation contributors under a ![Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
 
 
 ## Introduction
